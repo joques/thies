@@ -11,10 +11,9 @@ Below are notes compiled from the literature used while brainstorming about the 
 ## Dec POMDPs
 
 
-
 ## Reinforcement Learning
 
 ## Multi-agent Systems
 
-
+## Image Classification and Detection
 
