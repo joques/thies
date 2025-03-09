@@ -11,7 +11,7 @@ For the iobject detection problem, we will organise/generate a dataset of recycl
 
 Moreover, we will formulate the waste sorting problem as **decentralised partially observable Markov Decision Process** and explore several distributed and parallel algorithms in sequential decision-making (reinforcement learning, multi-armed bandits, Monte Carlo Tree Search, Group Related Policy Optimisation, etc.). 
 ..........................................................................Progress.......................................................................
-1.4.1 Main Objective 
+**1.4.1 Main Objective **
 
 To build a multi-agent-powered model for waste sorting at the public refuse
 
