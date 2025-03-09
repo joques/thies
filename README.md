@@ -10,7 +10,8 @@ In this project, we seek to:
 For the iobject detection problem, we will organise/generate a dataset of recyclable waste items (e.g., bottles). Next, we will build several models for object detection and segmentation. Our model development efforts will focus on the transformer architecture.
 
 Moreover, we will formulate the waste sorting problem as **decentralised partially observable Markov Decision Process** and explore several distributed and parallel algorithms in sequential decision-making (reinforcement learning, multi-armed bandits, Monte Carlo Tree Search, Group Related Policy Optimisation, etc.). 
-..........................................................................Progress.......................................................................
+
+**..........................................................................Progress.......................................................................**
 
 **1.4 Research Objectives**
 
