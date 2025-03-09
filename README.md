@@ -23,9 +23,11 @@ To build a multi-agent-powered model for waste sorting at the public refuse
 
 This study will be guided by the following specific research objectives (RO):
 
-i.	To investigate the data requirements needed for building a multi-agent-powered model for waste sorting at the public refuse (RO1)
-ii.	To develop a multi-agent-powered model for waste sorting at the public refuse (RO2)
-iii.	Validate the developed model (RO3)
+i.	To investigate the data requirements needed for building a multi-agent-powered model for waste sorting at the public refuse (**RO1**)
+
+ii.	To develop a multi-agent-powered model for waste sorting at the public refuse (**RO2**)
+
+iii.	Validate the developed model (**RO3**)
 
 **Description of the RO:**
 
