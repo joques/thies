@@ -7,6 +7,6 @@ In this project, we seek to:
 1. develop **transofrmer**-based computer vision models to detect recyclable objects from an image. We will focus on bottles at first;
 1. develop an __intelligent__ **sequential decision-making** tools inspired from reinforcement learning.
 
-For the iobject detection problem, we will organise/generate a dataset of recyclable waste items (e.g., bottles). Next, we will build several models for object detection and segmentation. Our model development efforts will focus on the transformer architecture.
+For the object detection problem, we will organise/generate a dataset of recyclable waste items (e.g., bottles). Next, we will build several models for object detection and segmentation. Our model development efforts will build on recent developments in self-supervised learning (contrastive learning) and representation learning for object detection. These techniques include vision transofrmers, cross-attention, BYOL and autoencoders.  
 
 Moreover, we will formulate the waste sorting problem as **decentralised partially observable Markov Decision Process** and explore several distributed and parallel algorithms in sequential decision-making (reinforcement learning, multi-armed bandits, Monte Carlo Tree Search, Group Related Policy Optimisation, etc.). 
