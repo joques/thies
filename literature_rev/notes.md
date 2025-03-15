@@ -12,8 +12,7 @@ Below are notes compiled from the literature used while brainstorming about the 
 This paper discusses the Multi-Armed Bandits (MAB) problem and its relevance to the research topic: "building a multi-agent system for sorting recyclable waste at refuse stations". It includes introduction to Multi-Armed Bandits (MAB), a detailed account to MAB algorithms, a decision-making technique under uncertainty.
 
 **ABSTRACT**
-.....................................................................................................................................
-.................................................................................................................to be placed
+......................................................................................................................to be placed
 
 **INTRODUCTION**
 Though it may sound like a throwback to the Wild West, the term "multi-armed bandit" has far more meaning than just shootouts and standoffs. It includes an area where statistics, probability, and cutting-edge algorithms come together to assist individuals in making calculated choices and maximizing their endeavors. Digital levers are used by multi-armed bandit (MAB) algorithms to increase their chances of success. The MAB is a simple yet very powerful framework for algorithms that manage uncertainty while making decisions over time (Slivkins, 2019). An agent must select actions (or arms) in this machine learning setting in order to maximize its cumulative long-term payoff (Zhao, 2025). The agent is given some context about the current condition at the beginning of each round. It makes its decision based on this data as well as the knowledge gathered from earlier rounds. The reward linked to the chosen action is given to the agent at the conclusion of each round.
