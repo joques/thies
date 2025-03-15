@@ -9,7 +9,7 @@ Below are notes compiled from the literature used while brainstorming about the 
     - summary: this document presents a detailed introduction to multi-armed bandits algorithms, a decision-making technique under uncertainty.
 
 **Paper 1: ## Multi-Armed Bandits** 
-##This paper discusses the Multi-Armed Bandits (MAB) problem and its relevance to the research topic: "building a multi-agent system for sorting recyclable waste at refuse stations". It includes introduction to Multi-Armed Bandits (MAB), a detailed account to MAB algorithms, a decision-making technique under uncertainty.
+This paper discusses the Multi-Armed Bandits (MAB) problem and its relevance to the research topic: "building a multi-agent system for sorting recyclable waste at refuse stations". It includes introduction to Multi-Armed Bandits (MAB), a detailed account to MAB algorithms, a decision-making technique under uncertainty.
 
 **ABSTRACT**
 ......................................................................................................................to be placed
