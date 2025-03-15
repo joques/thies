@@ -38,7 +38,7 @@ This model is based on the principle that, in a scenario involving two agents, e
 
 We provide a concise overview of recent developments relevant to addressing the Dec-POMDP (Decentralized Partially Observable Markov Decision Process) challenge. In part II, we will explicitly discuss sample scenarios of the Dec-POMDP model. Next, in section III, we will explore Dec-POMDP planning, including actions, states, and observations. Sections IV and V present insights on sequential decision-making within the context of Dec-POMDP and reinforcement learning (RL) respectively. In section VI, we will introduce several notable classes of Dec-POMDPs. Finally, in part VII, we will conclude our discussion.
 
-......................................................................................................cont's
+........................................................................................................................cont's
 
 ## Reinforcement Learning
 **Paper 3: ## Reinforcement Learning**
