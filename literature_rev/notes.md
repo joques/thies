@@ -21,6 +21,10 @@ In the MAB problem, an agent is given several options (or "arms"), each of which
 
 .............................................................................................................................cont's
 
+![Image](https://github.com/user-attachments/assets/146a78f2-dabb-4b1b-8ebc-d3fea43eb3e7)
+
+Figure: Multi-Armed Bandits Sample Operation Representation 
+
 ## Dec POMDPs
 **Paper 2: ## Dec POMDPs (Actions, States and Observations)**
 This study outlines the decentralized Partially Observable Markov Decision Process (Dec-POMDP) framework and its relevance to the research topic: "building a multi-agent system for sorting recyclable waste at refuse stations".
